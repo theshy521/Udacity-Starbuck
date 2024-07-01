@@ -31,6 +31,20 @@ You'll also want to take into account that some demographic groups will make pur
 Because this is a capstone project, you are free to analyze the data any way you see fit. For example, you could build a machine learning model that predicts how much someone will spend based on demographics and offer type. Or you could build a model that predicts whether or not someone will respond to an offer. Or, you don't need to build a machine learning model at all. You could develop a set of heuristics that determine what offer you should send to each customer (i.e., 75 percent of women customers who were 35 years old responded to offer A vs 40 percent from the same demographic to offer B, so send offer A).
 
 
+### License: MIT License
+
+### Used library
+1. Numpy == 1.12.1
+2. Pandas == 0.23.3
+3. Json == 0.8.5
+4. Seaborn == 0.8.1
+5. Matplotlib == 2.1.0
+6. Scikit-learn == 1.5.0
+
+
+### Installation
+pip install -r requirements.txt
+
 
 ### AI modeling
 1. EDA
